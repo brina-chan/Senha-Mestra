@@ -1,0 +1,16 @@
+.cofre_seguro.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+.env
+build/
+dist/
+*.spec
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
