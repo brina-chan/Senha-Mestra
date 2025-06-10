@@ -39,6 +39,7 @@ A forma mais fácil de usar o Senha Mestra é baixando o pacote da última vers�
 4. Dentro da pasta extraída, execute o arquivo `Senha Mestra.exe`.
 
 ⚠️ **Aviso Importante do Windows**
+
 Ao executar o programa pela primeira vez, o Windows Defender SmartScreen pode exibir uma tela azul, impedindo a execução. Isso é normal para aplicativos de novos desenvolvedores que ainda não têm uma assinatura digital.
 
 Para prosseguir, clique em `"Mais informações"` e, em seguida, no botão `"Executar assim mesmo".` O aplicativo é seguro.
