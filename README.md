@@ -26,13 +26,23 @@ O aplicativo foi construído sobre uma **arquitetura de conhecimento zero (*zero
 
 ---
 
-## 🚀 Instalação:
+## 🚀 Instalação
 
-A forma mais fácil de usar o Senha Mestra é baixando o executável portátil.
+A forma mais fácil de usar o Senha Mestra é baixando o pacote da última versão.
 
 1. Vá para a seção de [**Releases**](https://github.com/brina-chan/Senha-Mestra/releases) do repositório.
-2. Na versão mais recente, clique em `Senha-Mestra.exe` para baixar o arquivo.
-3. Execute o arquivo. Não é necessário instalar nada!
+
+2. Na versão mais recente, clique no arquivo `.zip` (ex: `Senha.Mestra-v1.0.0.zip`) para baixar.
+
+3. **Extraia o conteúdo** do arquivo `.zip` para uma pasta no seu computador.
+
+4. Dentro da pasta extraída, execute o arquivo `Senha Mestra.exe`.
+
+⚠️ **Aviso Importante do Windows**
+Ao executar o programa pela primeira vez, o Windows Defender SmartScreen pode exibir uma tela azul, impedindo a execução. Isso é normal para aplicativos de novos desenvolvedores que ainda não têm uma assinatura digital.
+
+Para prosseguir, clique em `"Mais informações"` e, em seguida, no botão `"Executar assim mesmo".` O aplicativo é seguro.
+
 
 ## 📝 Licença
 
